@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/CrakDetectors/__init__.py
+src/CrakDetectors.egg-info/PKG-INFO
+src/CrakDetectors.egg-info/SOURCES.txt
+src/CrakDetectors.egg-info/dependency_links.txt
+src/CrakDetectors.egg-info/top_level.txt

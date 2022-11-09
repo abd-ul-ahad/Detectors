@@ -1,7 +1,0 @@
-setup.py
-CrakDetectors/__init__.py
-CrakDetectors.egg-info/PKG-INFO
-CrakDetectors.egg-info/SOURCES.txt
-CrakDetectors.egg-info/dependency_links.txt
-CrakDetectors.egg-info/requires.txt
-CrakDetectors.egg-info/top_level.txt

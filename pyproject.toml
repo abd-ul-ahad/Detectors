@@ -1,0 +1,17 @@
+[project]
+name = "CrakDetectors"
+version = "0.0.1"
+authors = [
+  { name="Abdul Ahad", email="abd-ul-ahad@outlook.com" },
+]
+description = "This is made for detection of body it uses Mediapipe and opencv"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/abd-ul-ahad/Detectors"
