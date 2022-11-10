@@ -110,7 +110,7 @@ class PoseDetector:
                     image, processed.pose_landmarks, self.pose_file.POSE_CONNECTIONS)
                 for id, landmark in enumerate(processed.pose_landmarks.landmark):
                     h, w, z = image.shape
-                    cx, cy = int(h*landmark.x), int(w*landmark.y)
+                    cx, cy = int(w*landmark.x), int(h*landmark.y)
                     result.append([id, cx, cy, z])
 
         return result
