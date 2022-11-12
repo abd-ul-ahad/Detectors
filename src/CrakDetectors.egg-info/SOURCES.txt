@@ -1,6 +1,10 @@
 LICENSE.md
 README.md
 pyproject.toml
+src/CrakDetectors/FaceDetector.py
+src/CrakDetectors/FaceMesh.py
+src/CrakDetectors/HandDetector.py
+src/CrakDetectors/PoseDetector.py
 src/CrakDetectors/__init__.py
 src/CrakDetectors.egg-info/PKG-INFO
 src/CrakDetectors.egg-info/SOURCES.txt
