@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: CrakDetectors
-Version: 0.0.4
+Version: 0.0.6
 Summary: This is made for detection of body it uses Mediapipe and opencv
 Author-email: Abdul Ahad <abd-ul-ahad@outlook.com>
 Project-URL: Homepage, https://github.com/abd-ul-ahad/Detectors
