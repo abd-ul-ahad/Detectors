@@ -47,7 +47,7 @@ class HandDetector:
                         image, hand_landmarks, self.hand_file.HAND_CONNECTIONS)
                     for id, landmark in enumerate(hand_landmarks.landmark):
                         h, w, z = image.shape
-                        cx, cy = int(h*landmark.x), int(w*landmark.y)
+                        cx, cy = int(w*landmark.x), int(h*landmark.y)
                         result.append([id, cx, cy])
 
         return {"image": image, "landmarks": result}
