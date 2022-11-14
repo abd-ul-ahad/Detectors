@@ -1,6 +1,6 @@
 [project]
 name = "CrakDetectors"
-version = "0.0.9"
+version = "0.1.3"
 authors = [
   { name="Abdul Ahad", email="abd-ul-ahad@outlook.com" },
 ]
